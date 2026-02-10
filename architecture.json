@@ -1,0 +1,160 @@
+{
+  "book_id": "enlightenment_scottish_urban_realism_local_universal",
+  "title": "The Clean, Cold Light of Dalriada Street",
+  "tagline": "Inheriting a stark tenement flat, a man must clear out a life's clutter to find a space for his own.",
+  "target_words": 70000,
+  "actual_words": 66414,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Architecture of Solitude",
+    "Inheritance as Burden and Beacon",
+    "Urban Archaeology of the Self",
+    "The Austere Poetry of the Everyday"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Greasy Smear",
+      "words": 2767
+    },
+    {
+      "ch": 2,
+      "title": "The Specimen Jar",
+      "words": 2767
+    },
+    {
+      "ch": 3,
+      "title": "The Humanist Service",
+      "words": 2767
+    },
+    {
+      "ch": 4,
+      "title": "The Ghost in the Linoleum",
+      "words": 2767
+    },
+    {
+      "ch": 5,
+      "title": "The First Box",
+      "words": 2767
+    },
+    {
+      "ch": 6,
+      "title": "The Neighbour on the Landing",
+      "words": 2767
+    },
+    {
+      "ch": 7,
+      "title": "The Delivery Run",
+      "words": 2767
+    },
+    {
+      "ch": 8,
+      "title": "The Sheriff Court Ledger",
+      "words": 2767
+    },
+    {
+      "ch": 9,
+      "title": "A Crack in the Austerity",
+      "words": 2767
+    },
+    {
+      "ch": 10,
+      "title": "The Man in the Uniform",
+      "words": 2767
+    },
+    {
+      "ch": 11,
+      "title": "Burns and Sentimental Pish",
+      "words": 2767
+    },
+    {
+      "ch": 12,
+      "title": "The Leak Over the Bed",
+      "words": 2767
+    },
+    {
+      "ch": 13,
+      "title": "A Decision in the Silence",
+      "words": 2767
+    },
+    {
+      "ch": 14,
+      "title": "The First Object Kept",
+      "words": 2767
+    },
+    {
+      "ch": 15,
+      "title": "Archie's Bad Joke",
+      "words": 2767
+    },
+    {
+      "ch": 16,
+      "title": "The View from the Top Floor",
+      "words": 2767
+    },
+    {
+      "ch": 17,
+      "title": "A Smell of Yeast, a Smell of Lavender",
+      "words": 2767
+    },
+    {
+      "ch": 18,
+      "title": "The Thistle Key",
+      "words": 2767
+    },
+    {
+      "ch": 19,
+      "title": "Concrete and Skyline",
+      "words": 2767
+    },
+    {
+      "ch": 20,
+      "title": "The Last of Morag",
+      "words": 2767
+    },
+    {
+      "ch": 21,
+      "title": "The First of Donnie",
+      "words": 2767
+    },
+    {
+      "ch": 22,
+      "title": "A Chair for a Guest",
+      "words": 2767
+    },
+    {
+      "ch": 23,
+      "title": "The Worn-Dip in the Stair",
+      "words": 2767
+    },
+    {
+      "ch": 24,
+      "title": "The Clean, Cold Light",
+      "words": 2767
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a chapter where Donnie discovers a single, seemingly mundane object in the flat that completely changes his understanding of Aunt Morag.",
+      "Compose a monologue from the perspective of the tenement building itself, describing the generations of lives it has contained.",
+      "Create a scene where Donnie hosts his first visitor in the flat—who is it, and what awkward or profound moment transpires?",
+      "Write a 'found document'—a letter, a shopping list, a court note—from Morag's box that reveals a hidden hope or regret."
+    ],
+    "technical": [
+      "Build an interactive map of Dalriada Street and its fictional closes, allowing users to explore the sonic and olfactory atmosphere of each landing.",
+      "Create a generative text tool that writes descriptions of Glasgow weather and its effect on the built environment, in the style of the novel's opening."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "James Kelman",
+      "Agnes Owens",
+      "Ali Smith",
+      "Robert Burns"
+    ]
+  },
+  "cover_prompt": "A solitary man in a worn sweater carefully places a single, dusty book into a cardboard box, his expression one of pensive focus amidst a sea of sorted possessions, [Detailed Scene & Context: inside a stark, high-ceilinged tenement flat in a Scottish city; the room is a landscape of transition, with stacks of old books, faded photographs in small piles, a simple wooden chair by a large window, and clean, empty spaces beginning to emerge from the clutter, suggesting an urban archaeology in progress], [Artistic Style & Medium: in the atmospheric style of Andrew Wyeth's melancholic realism and the precise, somber interiors of Vilhelm Hammershøi, rendered in textured oil painting with subtle impasto], [Composition & Camera: book cover framing, centered composition with the figure slightly off-center, viewed from a low dramatic angle that emphasizes the tall window and the geometric architecture of the room], [Lighting & Color Palette: cold, clear northern daylight streaming through the bare window, casting long, sharp shadows and illuminating dust motes, creating a stark interplay of light and shadow; a restrained palette of muted greys, oatmeal, faded blues, and bone white, with a single warm accent of ochre from an old book spine], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
